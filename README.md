@@ -1,4 +1,5 @@
 <div id="header" align="center">
   <img src="/Media/Main.jpg" width="200"/>
-  ![Discord](https://img.shields.io/discord/975679626435252245?color=%234d5bf1&label=Discord%20Server&style=for-the-badge)
 </div>
+
+![Discord](https://img.shields.io/discord/975679626435252245?color=%234d5bf1&label=Discord%20Server&style=for-the-badge)
