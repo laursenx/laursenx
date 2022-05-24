@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="/gifs/Main.gif" width="200"/>
+  <img src="/gifs/Main.gif" width="250"/>
 </div>
