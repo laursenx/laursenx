@@ -5,4 +5,4 @@
 <br>
 <br>
 
-[![Discord](https://img.shields.io/discord/975679626435252245?color=%234d5bf1&label=Discord%20Server&style=for-the-badge)]
+[!(https://img.shields.io/discord/975679626435252245?color=%234d5bf1&label=Discord%20Server&style=for-the-badge)]
