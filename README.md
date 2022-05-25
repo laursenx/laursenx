@@ -25,17 +25,7 @@
 <details>
   <summary><h3>NH-Context (FiveM) 🟢<h3/></summary>
   <h4>Information<h4/>
-  Support client side events and functions. <br>
-  New clean design. <br>
-  Navigate menu with mouse and keyboard. <br>
-</details>
-
-#### 📦🟢 NH-Context (FiveM)
-> Support client side events and functions. <br>
-> New clean design. <br>
-> Navigate menu with mouse and keyboard. <br>
-<details>
-  <summary>How do I dropdown?</summary>
-  <br>
-  This is how you dropdown.
+  <div>Support client side events and functions.</div>
+  <div>New clean design.</div>
+  <div>Navigate menu with mouse and keyboard.</div>
 </details>
