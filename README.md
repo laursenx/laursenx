@@ -24,10 +24,10 @@
     
 <details>
   <summary><h3>NH-Context (FiveM) 🟢<h3/></summary>
-  <br>
-  > Support client side events and functions. <br>
-  > New clean design. <br>
-  > Navigate menu with mouse and keyboard. <br>
+  <h4>Information<h4/>
+  Support client side events and functions. <br>
+  New clean design. <br>
+  Navigate menu with mouse and keyboard. <br>
 </details>
 
 #### 📦🟢 NH-Context (FiveM)
