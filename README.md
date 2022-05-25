@@ -20,7 +20,7 @@
 
 ---
 
-### :package: Releases:
+# :package: Releases:
 :green_book: Done!
 - NH-Context (FiveM): <br>
 > Support client side events and functions. <br>
