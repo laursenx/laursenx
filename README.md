@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" width="100px"/>
     </a>
   </div>
-  <h3>Releases:<h3/>
+  <h2>Releases:<h2/>
 </div>
 
 ---
