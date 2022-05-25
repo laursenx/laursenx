@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/Discord-blue?%234d5bf1&style=for-the-badge&logo=discord&logoColor=white" width="100px"/>
     </a>
   </div>
-  <h3>📚 Favorite Languages:<h3/>
+  <h3>📚 Favorite Languages 📚<h3/>
   <div id="badges">
     <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
