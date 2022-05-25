@@ -30,7 +30,7 @@
   > Navigate menu with mouse and keyboard. <br>
 </details>
 
-#### 📦 NH-Context (FiveM) ︱ 🟢
+#### 📦🟢 NH-Context (FiveM)
 > Support client side events and functions. <br>
 > New clean design. <br>
 > Navigate menu with mouse and keyboard. <br>
