@@ -21,8 +21,12 @@
 ---
 
 ### :package: Releases:
-- :green_book: = Done! 
+:green_book: Done!
+- NH-Context (FiveM):
+> Support client side events and functions.
+> New clean design.
+> Navigate menu with mouse and keyboard.
 
-- :orange_book: = Nearly done!
+- :orange_book: Nearly done!
 
 - :closed_book: Just started!
