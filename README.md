@@ -28,8 +28,8 @@
       <tr>
         <th width="5%">Status</th>
         <th width="20%">Name</th>
-        <th width="40%">Information</th>
-        <th width="25%">Download</th>
+        <th width="60%">Information</th>
+        <th width="5%">Download</th>
       </tr>
     </thead>
     <tbody>
