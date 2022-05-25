@@ -33,14 +33,5 @@
         <div>› Navigate menu with mouse and keyboard.</div>
       </details>
     </a>
-    <a href="https://discord.com/invite/bS6bpgmY5C">
-      <details>
-        <summary><h3>NH-Context (FiveM) 🟢</h3></summary>
-        <h3> 📄 Information</h3>
-        <div>› Support client side events and functions.</div>
-        <div>› New clean design.</div>
-        <div>› Navigate menu with mouse and keyboard.</div>
-      </details>
-    </a>
   </div>
 </div>
