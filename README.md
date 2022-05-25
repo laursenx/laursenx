@@ -26,10 +26,10 @@
   <table>
     <thead>
       <tr>
-        <th>Status</th>
-        <th>Name</th>
-        <th>Information</th>
-        <th>Download</th>
+        <th width="15%">Status</th>
+        <th width="20%">Name</th>
+        <th width="40%">Information</th>
+        <th width="15%">Download</th>
       </tr>
     </thead>
     <tbody>
