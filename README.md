@@ -23,18 +23,20 @@
 ---
 
 <div id="header" align="center">
-  <details>
-    <summary><h3>NH-Context (FiveM) 🟢</h3></summary>
-    <h3> 📄 Information</h3>
-    <div>› Support client side events and functions.</div>
-    <div>› New clean design.</div>
-    <div>› Navigate menu with mouse and keyboard.</div>
-  </details>
-  <details>
-    <summary><h3>NH-Context (FiveM) 🟢</h3></summary>
-    <h3> 📄 Information</h3>
-    <div>› Support client side events and functions.</div>
-    <div>› New clean design.</div>
-    <div>› Navigate menu with mouse and keyboard.</div>
-  </details>
+  <div id="badges">
+    <details>
+      <summary><h3>NH-Context (FiveM) 🟢</h3></summary>
+      <h3> 📄 Information</h3>
+      <div>› Support client side events and functions.</div>
+      <div>› New clean design.</div>
+      <div>› Navigate menu with mouse and keyboard.</div>
+    </details>
+    <details>
+      <summary><h3>NH-Context (FiveM) 🟢</h3></summary>
+      <h3> 📄 Information</h3>
+      <div>› Support client side events and functions.</div>
+      <div>› New clean design.</div>
+      <div>› Navigate menu with mouse and keyboard.</div>
+    </details>
+  </div>
 </div>
