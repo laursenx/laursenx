@@ -20,10 +20,8 @@
 
 ---
 
-# :package: Releases:
-##### :green_book: Done!
-##### :orange_book: Nearly done!
-##### :closed_book: Just started!
+# :package: Releases: (:green_book: Done!) (:orange_book: Nearly done!) (:closed_book: Just started!)
+
 ### NH-Context (FiveM)
 > Support client side events and functions. <br>
 > New clean design. <br>
