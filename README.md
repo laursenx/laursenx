@@ -20,3 +20,7 @@
     Welcome to my profile!
   </h1>
 </div>
+
+---
+
+### :woman_technologist: About Me :
