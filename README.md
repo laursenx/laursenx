@@ -16,8 +16,9 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" width="100px"/>
     </a>
   </div>
-## Welcome to my profile!
 </div>
+
+## Welcome to my profile!
 
 ---
 
