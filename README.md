@@ -17,7 +17,7 @@
     </a>
   </div>
   <div>
-    <font size="+1">Welcome to my profile!</font>
+    <font size="+3">Welcome to my profile!</font>
   </div>
 </div>
 
