@@ -4,7 +4,7 @@
     <a href="https://discord.com/invite/bS6bpgmY5C">
       <img src="https://img.shields.io/discord/975679626435252245?color=%234d5bf1&label=Discord&style=for-the-badge" height="25px" width="150px"/>
     </a>
-    <a href="your-linkedin-URL">
+    <a href="https://github.com/laursenx">
       <img src="https://komarev.com/ghpvc/?username=laursenx&style=for-the-badge&color=blue" height="25px" width="150px"/>
     </a>
   </div>
