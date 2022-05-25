@@ -28,13 +28,15 @@
       <tr>
         <th>Status</th>
         <th>Name</th>
+        <th>Information</th>
         <th>Download</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td><g-emoji class="g-emoji" alias="green_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e2.png">🟢</g-emoji></td>
-        <td>NH-Context (FiveM)</td>
+        <td>NH-Context(FiveM)</td>
+        <td>FiveM Menu that supports client side events and functions.</td>
         <td>List all new or modified files</td>
       </tr>
       <tr>
