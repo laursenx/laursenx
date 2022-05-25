@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" width="100px"/>
     </a>
     <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" width="100px"/>
+      <img src="https://img.shields.io/badge/Discord-blue%234d5bf1&style=for-the-badge&logo=discord&logoColor=white" width="100px"/>
     </a>
   </div>
   <h3>:package: Releases:<h3/>
