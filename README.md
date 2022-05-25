@@ -23,6 +23,6 @@
 ### :package: Releases:
 - :green_book: = Done! 
 
-- :yellow_book: = Nearly done!
+- :orange_book: = Nearly done!
 
-- :red_book: Just started!
+- :closed_book: Just started!
