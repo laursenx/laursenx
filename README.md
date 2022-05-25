@@ -17,7 +17,7 @@
     </a>
   </div>
   <h3>:package: Releases:<h3/>
-  <h4>:green_circle: 100% ︱ :yellow_circle: 66.6% ︱ :orange_circle: 33.3% ︱ :red_circle: 0.0%<h4/>
+  <h4>:green_circle: 100% ︱ :yellow_circle: 66.6% ︱ :orange_circle: 33.3% ︱ :red_circle: 00.0%<h4/>
 </div>
 
 ---
