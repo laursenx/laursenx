@@ -36,7 +36,7 @@
       <tr>
         <td><g-emoji class="g-emoji" alias="green_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e2.png">🟢</g-emoji></td>
         <td>NH-Context</td>
-        <td>FiveM menu that supports client side events and functions, also new design that supports font-awesome icons.</td>
+        <td>FiveM menu that supports client side events and functions, also new design that supports font-awesome icons. Still supports old nh-context.</td>
         <td>List all new or modified files</td>
       </tr>
       <tr>
