@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="/Media/Main.jpg" width="100px"/>
+  <img src="https://p7.hiclipart.com/preview/820/425/211/terror-management-theory-project-management-image-death-family-guy-peter.jpg" width="100px"/>
   <div id="badges">
     <a href="https://discord.com/invite/bS6bpgmY5C">
       <img src="https://img.shields.io/discord/975679626435252245?color=%234d5bf1&label=Discord&style=for-the-badge" height="25px" width="150px"/>
