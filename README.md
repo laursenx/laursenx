@@ -23,6 +23,6 @@
 ### :package: Releases:
 - :green_book: = Done! 
 
-- :seedling: Exploring Technical Content Writing.
+- :yellow_book: = Nearly done!
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :red_book: Just started!
