@@ -17,7 +17,7 @@
     </a>
   </div>
   <h3>:package: Releases:<h3/>
-  <h4>:green_book: Done! ︱ :orange_book: Nearly done! ︱ :closed_book: Just started!<h4/>
+  <h4>:green_book: 100% ︱ :orange_book: 66.6% ︱ :closed_book: 33.3%<h4/>
 </div>
 
 ---
