@@ -23,7 +23,7 @@
 ---
     
 <details>
-  <summary><h4>NH-Context (FiveM) 🟢</h4></summary>
+  <summary><h3>NH-Context (FiveM) 🟢</h3></summary>
   <h3> 📄 Information</h3>
   <div>› Support client side events and functions.</div>
   <div>› New clean design.</div>
