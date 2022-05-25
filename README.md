@@ -21,11 +21,10 @@
 ---
 
 # :package: Releases:
-### NH-Context (FiveM) :green_book: Done!
+##### :green_book: Done!
+##### :orange_book: Nearly done!
+##### :closed_book: Just started!
+### NH-Context (FiveM)
 > Support client side events and functions. <br>
 > New clean design. <br>
 > Navigate menu with mouse and keyboard. <br>
-
-- :orange_book: Nearly done!
-
-- :closed_book: Just started!
