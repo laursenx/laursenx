@@ -17,7 +17,6 @@
     </a>
   </div>
   <h1>
-    Welcome to my profile!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Welcome to my profile! Recent releases:
   </h1>
 </div>
