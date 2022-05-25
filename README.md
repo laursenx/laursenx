@@ -23,9 +23,9 @@
 ### :package: Releases:
 :green_book: Done!
 - NH-Context (FiveM): <br>
-» Support client side events and functions. <br>
-» New clean design. <br>
-» Navigate menu with mouse and keyboard. <br>
+> Support client side events and functions. <br>
+> New clean design. <br>
+> Navigate menu with mouse and keyboard. <br>
 
 - :orange_book: Nearly done!
 
