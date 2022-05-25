@@ -21,26 +21,12 @@
 </div>
 
 ---
-
-<div id="header" align="center">
-  <div id="badges">
-    <a href="https://discord.com/invite/bS6bpgmY5C">
-      <details>
-        <summary><h3>NH-Context (FiveM) 🟢</h3></summary>
-        | Name | Download Link |
-        | --- | --- |
-        | NH-Context (FiveM) 🟢 | List all new or modified files |
-        | git diff | Show file differences that haven't been staged |
-        <h3> 📄 Information</h3>
-        <div>› Support client side events and functions.</div>
-        <div>› New clean design.</div>
-        <div>› Navigate menu with mouse and keyboard.</div>
-      </details>
-    </a>
-  </div>
-</div>
     
 | Name | Download Link |
 | --- | --- |
 | NH-Context (FiveM) 🟢 | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
+
+› Support client side events and functions.
+› New clean design.
+› Navigate menu with mouse and keyboard.
