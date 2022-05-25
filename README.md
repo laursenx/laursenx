@@ -33,7 +33,7 @@
       </tr>
     </thead>
     <tbody>
-      <tr>
+      <tr align="center">
         <td>🔴</td>
         <td>NH-Context</td>
         <td>FiveM menu that supports client side events and functions, also new design that supports font-awesome icons. Still supports old nh-context menus.</td>
