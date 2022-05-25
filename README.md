@@ -16,7 +16,8 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" width="100px"/>
     </a>
   </div>
-  <h2>Releases:<h2/>
+  <h3>:package: Releases:<h3/>
+  <h3>:green_book: Done! ︱ :orange_book: Nearly done! ︱ :closed_book: Just started!<h3/>
 </div>
 
 ---
