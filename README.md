@@ -26,3 +26,8 @@
 > Support client side events and functions. <br>
 > New clean design. <br>
 > Navigate menu with mouse and keyboard. <br>
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
