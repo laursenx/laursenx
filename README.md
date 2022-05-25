@@ -25,6 +25,7 @@
 <details>
   <summary><h3>NH-Context (FiveM) 🟢<h3/></summary>
   <h4>Information<h4/>
+  <br>
   <div>Support client side events and functions.</div>
   <div>New clean design.</div>
   <div>Navigate menu with mouse and keyboard.</div>
