@@ -36,7 +36,7 @@
   </div>
 </div>
     
-| Command | Description |
+| Name | Download Link |
 | --- | --- |
-| git status | List all new or modified files |
+| NH-Context (FiveM) 🟢 | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
