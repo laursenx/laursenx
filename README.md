@@ -21,7 +21,7 @@
 ---
 
 ### :package: Releases:
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :green_book: = Done! 
 
 - :seedling: Exploring Technical Content Writing.
 
