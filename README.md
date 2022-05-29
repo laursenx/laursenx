@@ -46,8 +46,8 @@
     <tbody>
       <tr align="center">
         <td>🔴</td>
-        <td>NH-Context</td>
-        <td>FiveM menu that supports client side events and functions, also new design that supports font-awesome icons. Still supports old nh-context menus.</td>
+        <td>Test</td>
+        <td>Test text</td>
         <td><a href="https://google.dk/"><a href="https://google.dk/">📦</a></td>
       </tr>
     </tbody>
