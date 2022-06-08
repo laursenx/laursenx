@@ -46,8 +46,8 @@
     <tbody>
       <tr align="center">
         <td>🔴</td>
-        <td>Test</td>
-        <td>Test text</td>
+        <td>Nothing special yet</td>
+        <td>Seems like im a lazy person and haven't created anything useful for the world yet</td>
         <td><a href="https://google.dk/"><a href="https://google.dk/">📦</a></td>
       </tr>
     </tbody>
